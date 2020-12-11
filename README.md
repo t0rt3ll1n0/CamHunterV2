@@ -14,18 +14,22 @@ This python3 script is the 2^ version of the preview archived version of CamHunt
 ## Options:
 
 ````~$ python3 CamHunter_v2.py --nation (OR) -N {Natiion}````
+
 Request for {Nation} links
 
 
 ````~$ python3 CamHunter_v2.py --show (OR) -S````
+
 Show avaiable nations
 
 
 ````~$ python3 CamHunter_v2.py --version (OR) -V````
+
 Show basic version info
 
 
 ````~$ python3 CamHunter_v2.py --old````
+
 Use old wizard interface
 
 ## Combined options:
