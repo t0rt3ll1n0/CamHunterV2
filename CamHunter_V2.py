@@ -16,11 +16,11 @@ __version__ = '-'.join(__version_info__)
 
 #create parser
 parser = argparse.ArgumentParser()
-parser.add_argument('-N', '--nation', help='Nation to select')
+parser.add_argument('--nation', help='Nation to select')
 parser.add_argument('-V', '--version', action='version', version="%(prog)s ("+__version__+")")
 parser.add_argument('-S', '--show', help='show list of nations', action="store_true")
 parser.add_argument('--old', help='use old interface', action="store_true")
-parser.add_argument('--output', '-O', help='save output in a file')
+parser.add_argument('--output', help='save output in a file')
 #add help
 args = parser.parse_args()
 
