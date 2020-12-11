@@ -32,6 +32,10 @@ Show basic version info
 
 Use old wizard interface
 
+````~$ python3 CamHunter_v2.py --help (OR) -h````
+
+Show help
+
 ## Combined options:
 With ````--output```` or ````-O```` you can save the output to a text file
 
