@@ -1,2 +1,34 @@
-# CamHunterV2
-This python script allow you to browse in more than 5000 cams all over the word. Note that this script is only for fun
+# CamHunter v2
+This python3 script is the 2^ version of the preview archived version of CamHunter
+
+![alt text](CamHunterV2.png "Title")
+
+## Installation:
+
+````~$ git clone https://www.github.com/t0rt3ll1n0/CamHunterV2.git````
+
+````~$ cd CamHunterV2````
+
+````~$ python3 CamHunter_v2.py --help````
+
+## Options:
+
+````~$ python3 CamHunter_v2.py --nation (OR) -N {Natiion}````
+Request for {Nation} links
+
+
+````~$ python3 CamHunter_v2.py --show (OR) -S````
+Show avaiable nations
+
+
+````~$ python3 CamHunter_v2.py --version (OR) -V````
+Show basic version info
+
+
+````~$ python3 CamHunter_v2.py --old````
+Use old wizard interface
+
+## Combined options:
+With ````--output```` or ````-O```` you can save the output to a text file
+
+````~$ python3 CamHunter_v2.py --nation {Nation} --output {Outputfile}````
