@@ -9,37 +9,37 @@ This python3 script is the 2^ version of the preview archived version of CamHunt
 
 ````~$ cd CamHunterV2````
 
-````~$ python3 CamHunter_v2.py --help````
+````~$ python3 CamHunter_V2.py --help````
 
 ## Options:
 
-````~$ python3 CamHunter_v2.py --nation (OR) -N {Natiion}````
+````~$ python3 CamHunter_V2.py --nation (OR) -N {Natiion}````
 
 Request for {Nation} links
 
 
-````~$ python3 CamHunter_v2.py --show (OR) -S````
+````~$ python3 CamHunter_V2.py --show (OR) -S````
 
 Show avaiable nations
 
 
-````~$ python3 CamHunter_v2.py --version (OR) -V````
+````~$ python3 CamHunter_V2.py --version (OR) -V````
 
 Show basic version info
 
 
-````~$ python3 CamHunter_v2.py --old````
+````~$ python3 CamHunter_V2.py --old````
 
 Use old wizard interface
 
-````~$ python3 CamHunter_v2.py --help (OR) -h````
+````~$ python3 CamHunter_V2.py --help (OR) -h````
 
 Show help
 
 ## Combined options:
 With ````--output```` or ````-O```` you can save the output to a text file
 
-````~$ python3 CamHunter_v2.py --nation {Nation} --output {Outputfile}````
+````~$ python3 CamHunter_V2.py --nation {Nation} --output {Outputfile}````
 
 Old interface:
 
