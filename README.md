@@ -36,3 +36,7 @@ Use old wizard interface
 With ````--output```` or ````-O```` you can save the output to a text file
 
 ````~$ python3 CamHunter_v2.py --nation {Nation} --output {Outputfile}````
+
+Old interface:
+
+![alt text](pics/CamHunter.png "Title")
