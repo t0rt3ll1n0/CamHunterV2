@@ -1,7 +1,7 @@
 # CamHunter v2
 This python3 script is the 2^ version of the preview archived version of CamHunter
 
-![alt text](CamHunterV2.png "Title")
+![alt text](pics/CamHunterV2.png "Title")
 
 ## Installation:
 
