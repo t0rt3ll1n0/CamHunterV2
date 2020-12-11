@@ -13,7 +13,7 @@ This python3 script is the 2^ version of the preview archived version of CamHunt
 
 ## Options:
 
-````~$ python3 CamHunter_V2.py --nation (OR) -N {Natiion}````
+````~$ python3 CamHunter_V2.py --nation {Natiion}````
 
 Request for {Nation} links
 
@@ -37,7 +37,7 @@ Use old wizard interface
 Show help
 
 ## Combined options:
-With ````--output```` or ````-O```` you can save the output to a text file
+With ````--output```` you can save the output to a text file
 
 ````~$ python3 CamHunter_V2.py --nation {Nation} --output {Outputfile}````
 
